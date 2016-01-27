@@ -12,7 +12,7 @@
 	url = https://github.com/webmproject/libwebp/
 [submodule "libxml2"]
 	path = libxml2
-	url = git://git.gnome.org/libxml2
+	url = https://github.com/bmharper/libxml2.git
 [submodule "proj4"]
 	path = proj4
 	url = https://github.com/OSGeo/proj.4.git
