@@ -1,0 +1,18 @@
+[submodule "boost"]
+	path = boost
+	url = https://github.com/boostorg/boost.git
+[submodule "libwebp"]
+	path = libwebp
+	url = https://github.com/webmproject/libwebp/
+[submodule "jpeg"]
+	path = jpeg
+	url = https://github.com/libjpeg-turbo/libjpeg-turbo.git
+[submodule "webp"]
+	path = webp
+	url = https://github.com/webmproject/libwebp/
+[submodule "libxml2"]
+	path = libxml2
+	url = git://git.gnome.org/libxml2
+[submodule "proj4"]
+	path = proj4
+	url = https://github.com/OSGeo/proj.4.git
