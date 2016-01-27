@@ -43,6 +43,7 @@ cd boost
 call bootstrap
 bjam toolset=%BOOST_MSVC_VER% --prefix=..\\boost-output --with-thread --with-filesystem --with-date_time --with-system --with-program_options --with-regex --with-chrono --disable-filesystem2 -sHAVE_ICU=1 -sICU_PATH=%ROOTDIR%\icu -sICU_LINK=%ROOTDIR%\icu\lib64\icuuc.lib release link=static install --build-type=complete
 cd %ROOTDIR%
+goto :eof
 
 rem ######### webp #########
 :webp

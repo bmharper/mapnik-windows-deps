@@ -12,10 +12,19 @@ output
 boost-output
 boost/bin.v2
 boost/libs/config/checks/architecture/bin
+boost/more
 boost/stage
 boost/project-config.jam
 boost/bootstrap.log
 boost/bjam.exe
 boost/b2.exe
+boost/**/test
+boost/**/tests
+boost/**/example
+boost/**/examples
+boost/**/benchmarks
+boost/**/doc
+boost/**/xmldoc
+boost/**/vc7ide
 
 
